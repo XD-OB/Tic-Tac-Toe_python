@@ -2,7 +2,7 @@
 
 Build a Tic Tac Toe game using python 3.6
 
-This game require 2 players, first the program ask who want to play first, then the first player choose his mark (X or O), the **Numpad** used by the players to choose their moves.
+This game require 2 players, first the program ask who want to play first, then the first player choose his mark (X or O)
 
 ![Rules](/ressources/rules.png)
 
