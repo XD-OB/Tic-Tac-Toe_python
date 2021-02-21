@@ -1,3 +1,11 @@
+####################################################################
+#                                                                  #
+# Oussama Belouche 1337                                            #
+#                                                                  #
+# Tic-Tac-toe Game                                                 #
+#                                                                  #
+####################################################################
+
 from collections import namedtuple
 from IPython.display import clear_output
 
